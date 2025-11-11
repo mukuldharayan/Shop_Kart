@@ -1,2 +1,2 @@
-# ShopKart-Website
+# ShopKart
 Shopkart Website is an online clothes shopping Website.
